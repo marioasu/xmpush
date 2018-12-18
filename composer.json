@@ -1,0 +1,20 @@
+{
+    "name": "mrsu/xmpush",
+    "description": "xiaomi push php sdk",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "xmpush\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mrsu",
+            "email": "marioasu@163.com"
+        }
+    ]
+}
